@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey everyone, I'm Nicola 👋
+
+🎓 I'm a 23-year-old student pursuing Artificial Intelligence at the University of Pisa (UniPi). I'm deeply fascinated by the ways AI can transform our world, and I'm constantly exploring new technologies and methodologies in this field.
 
 <!--
 **nicolapitzalis/nicolapitzalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
